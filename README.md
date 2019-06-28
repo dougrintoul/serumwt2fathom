@@ -10,7 +10,7 @@ waveforms.
 
 Then script is strictly command line; no fancy GUI is provided. Usage is
 
-python serumwt2fathom <path-to-serum-wavetable>
+python serumwt2fathom \<path-to-serum-wavetable\>
 
 Provided all goes well,a fathom wavetable will be created in the same 
 folder containing the serum wavetable. The Fathom wavetable can then be
